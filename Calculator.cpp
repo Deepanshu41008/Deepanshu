@@ -319,4 +319,5 @@ cout << z;
     }
             else 
             {cout << "Wrong Input";}
+ return 0;
        }
